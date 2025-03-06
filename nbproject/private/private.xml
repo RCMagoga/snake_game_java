@@ -3,7 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Projetos/java/snake_game_java/src/snake_game_java/Snake_game_java.java</file>
+            <file>file:/D:/Projetos/java/snake_game_java/src/snake_game_java/Main.java</file>
+            <file>file:/D:/Projetos/java/snake_game_java/src/components/Frame.java</file>
+            <file>file:/D:/Projetos/java/snake_game_java/src/components/Panel.java</file>
         </group>
     </open-files>
 </project-private>
