@@ -7,7 +7,7 @@ import utils.Contants;
 
 public class Frame extends JFrame{
     
-    Panel panel = new Panel();
+    Panel panel;
     
     public Frame(Panel panel){
         this.panel = panel;

@@ -16,19 +16,17 @@ public class GameKeyListener implements KeyListener{
     
     @Override
     public void keyTyped(KeyEvent e) {
-        game.keyPressed();
         
     }
 
     @Override
     public void keyPressed(KeyEvent e) {
-        game.keyPressed();
+        game.keyPressed(e);
     }
 
     @Override
     public void keyReleased(KeyEvent e) {
-        game.keyPressed();
-        
+                
     }
     
 }
